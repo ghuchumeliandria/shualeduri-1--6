@@ -109,13 +109,13 @@ body{
     height: 20px;
 }
 .icon-paragraph{
-    font-weight: bold;
+    font-weight: 500;
 }
 #red1{
     background-color: #ff555512;
 }
 #yellow2{
-   background-color: rgba(255, 255, 0, 0.079) ;
+   background-color: rgba(255, 255, 0, 0.051) ;
 }
 #green3{
    background-color: rgba(0, 128, 0, 0.064);
@@ -138,6 +138,7 @@ body{
 .point-paragraph{
     font-weight: bold;
     font-size: 18px;
+    color: #303B59;
 }
 .point-span{
     color: #6d7796;
